@@ -1,0 +1,11 @@
+            .App {
+                overflow-x: hidden !important;
+            }
+            
+            .App button {
+                transition: .3s ease;
+            }
+            
+            .App button:focus {
+                outline: 0;
+            }
